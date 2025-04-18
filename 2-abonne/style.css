@@ -37,3 +37,12 @@ body{
   border: none;
   color: #1E2337;
 }
+
+.happy{
+  color: #f1bf2a;
+}
+
+.abonne{
+  background-color: #f1bf2a;
+  color: white;
+}
